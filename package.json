@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bookshelf": "^0.13.3",
+    "knex": "^0.14.5",
+    "sqlite3": "^3.1.13",
+    "koa": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.4.0"
+  }
+}
